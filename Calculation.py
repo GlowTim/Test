@@ -9,3 +9,5 @@ if result > 10:
 print(a/b)
 
 c = a + b
+
+d = "wtf is going on"
