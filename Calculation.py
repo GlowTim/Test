@@ -7,3 +7,5 @@ if result > 10:
     print("The result is greater than 10")
 
 print(a/b)
+
+c = a + b
